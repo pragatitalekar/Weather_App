@@ -3,7 +3,7 @@
 A simple Weather App built using **SwiftUI**, demonstrating clean UI design, navigation, and state handling.  
 The app displays weather information for selected locations using **dummy data** and follows a **3-screen flow**.
 
----
+--
 
 ## Features
 
@@ -12,7 +12,7 @@ The app displays weather information for selected locations using **dummy data**
 - Follows Apple development best practices
 - Easy to extend with new features and APIs
 
----
+--
 
 ## Tech Stack
 
@@ -21,7 +21,7 @@ The app displays weather information for selected locations using **dummy data**
 - **UI Framework:** SwiftUI  
 - **Build System:** Xcode 16+  
 
----
+--
 
 ## Project Structure
 
@@ -29,3 +29,17 @@ The app displays weather information for selected locations using **dummy data**
 - `ViewModels` – Business logic and state management
 - `Models` – Data models
 - `Services` – Networking and data services
+
+--
+
+## Screenshots
+
+1. **Landing Screen**
+  
+
+2. **Locations List Screen**
+
+
+3. **Detail Screen**
+
+
