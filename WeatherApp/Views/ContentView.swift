@@ -17,7 +17,7 @@ struct ContentView: View {
                 .ignoresSafeArea()
 
                 VStack(spacing: 20) {
-                    Image("umbrella")
+                    Image("umbrella-3")
                         .resizable()
                         .scaledToFit()
                         .frame(width: 120)

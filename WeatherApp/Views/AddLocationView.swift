@@ -14,6 +14,7 @@ struct AddLocationView: View {
     )
 
     var body: some View {
+        
         Form {
             Section("Pick Location") {
                 Map(coordinateRegion: $region)
@@ -45,6 +46,7 @@ struct AddLocationView: View {
                 dismiss()
             }
         }
+        
         .navigationTitle("Add Location")
     }
 }
